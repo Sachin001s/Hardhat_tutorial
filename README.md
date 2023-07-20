@@ -1,4 +1,4 @@
-<img src="Lottery.png" align="right" width="200px" height="200px"/>
+<img src="hardhat.jpg" align="right" width="200px" height="250px"/>
 
 # TOKEN CREATION USING HARDHAT      &nbsp; ![Static Badge](https://img.shields.io/badge/TokenCreation-TC-%23F8C517)
 
